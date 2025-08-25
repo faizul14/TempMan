@@ -30,7 +30,7 @@
 
 ```bash
 # Download script
-curl -o tempman.sh https://raw.githubusercontent.com/your-repo/tempman/main/tempman.sh
+curl -o tempman.sh https://raw.githubusercontent.com/faizul14/TempMan/master/tempman.sh
 
 # Atau jika sudah download, copy ke system path
 sudo cp tempman.sh /usr/local/bin/tempman
